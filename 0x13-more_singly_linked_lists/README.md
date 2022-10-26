@@ -33,3 +33,15 @@ a function that inserts a new node at a given position.
 Task 10
 a function that deletes the node at index index of a listint_t linked list.
 
+Task 11
+a function that reverses a listint_t linked list.
+
+Task 12
+a function that prints a listint_t linked list.
+
+Task 13
+ a function that frees a listint_t list.
+
+Task 14
+a function that finds the loop in a linked list.
+
